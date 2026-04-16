@@ -1,5 +1,5 @@
 {
-  "name": "@naufal/react-native-reusable-chatbot",
+  "name": "@naufalcitrus/react-native-reusable-chatbot",
   "version": "0.0.1",
   "description": "reusable chatbot",
   "main": "./lib/module/index.js",
