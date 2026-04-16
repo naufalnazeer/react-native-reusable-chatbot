@@ -59,7 +59,7 @@ export const ChatMessages: React.FC<ChatMessages> = ({ inputTextStyle }) => {
                 <View style={{ alignSelf: 'flex-start', padding: 12, backgroundColor: '#E9E9EB', borderRadius: 18, marginLeft: windowWidth * 0.04, marginBottom: 10 }}>
                     <ActivityIndicator size="small" color="#999" />
                 </View>
-            ) : null}
+            ) : undefined}
         />
     );
 };
